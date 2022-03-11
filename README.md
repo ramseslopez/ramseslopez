@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 <!--
   Visitors
--->
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=ramseslopez" />
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=ramseslopez" /> -->
 
 <!--
   My presentation

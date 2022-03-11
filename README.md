@@ -45,9 +45,13 @@ Here are some ideas to get you started:
 
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_macos_bigsur_icon_189484.png"></code>
+<code><img height="35" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Blender_23505.png"></code>
 <code><img height="35" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png"></code>
+
 
 ## 
 <div align="center">

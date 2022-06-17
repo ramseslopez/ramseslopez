@@ -28,57 +28,6 @@ Here are some ideas to get you started:
 
 
 
-   <div id="gr_custom_widget_1655475485">
-          <div class="gr_custom_container_1655475485">
-    <h2 class="gr_custom_header_1655475485">
-    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/141053085-ramses-l-pez?shelf=currently-reading&amp;utm_medium=api&amp;utm_source=custom_widget">Ramses&#39;s bookshelf: currently-reading</a>
-    </h2>
-      <div class="gr_custom_each_container_1655475485">
-          <div class="gr_custom_book_container_1655475485">
-            <a title="La guía del caballero para el vicio y la virtud" rel="nofollow" href="https://www.goodreads.com/review/show/4262590581?utm_medium=api&amp;utm_source=custom_widget"><img alt="La guía del caballero para el vicio y la virtud" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506402928l/36305891._SX50_.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating_1655475485">
-            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title_1655475485">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/4262590581?utm_medium=api&amp;utm_source=custom_widget">La guía del caballero para el vicio y la virtud</a>
-          </div>
-          <div class="gr_custom_author_1655475485">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/7327341.Mackenzi_Lee">Mackenzi Lee</a>
-          </div>
-          <div class="gr_custom_tags_1655475485">
-            tagged:
-            currently-reading
-          </div>
-      </div>
-      <div class="gr_custom_each_container_1655475485">
-          <div class="gr_custom_book_container_1655475485">
-            <a title="Given vol. 4 (Given #4)" rel="nofollow" href="https://www.goodreads.com/review/show/4309553965?utm_medium=api&amp;utm_source=custom_widget"><img alt="Given vol. 4" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623419909l/58314249._SX50_.jpg" /></a>
-          </div>
-          <div class="gr_custom_rating_1655475485">
-            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
-          </div>
-          <div class="gr_custom_title_1655475485">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/4309553965?utm_medium=api&amp;utm_source=custom_widget">Given vol. 4</a>
-          </div>
-          <div class="gr_custom_author_1655475485">
-            by <a rel="nofollow" href="https://www.goodreads.com/author/show/14369527.Natsuki_Kizu">Natsuki Kizu</a>
-          </div>
-          <div class="gr_custom_tags_1655475485">
-            tagged:
-            currently-reading
-          </div>
-      </div>
-  <br style="clear: both"/>
-  <center>
-    <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
-  </center>
-  <noscript>
-    Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with Ramses, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
-  </noscript>
-  </div>
-
-
 
 ## 😅 Yo
 
